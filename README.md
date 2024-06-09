@@ -22,3 +22,6 @@ These challenges have a direct impact on student learning:
 3. **Increased Stress:** The struggle to navigate complex PDFs can contribute to student stress and anxiety.
 
 There is a clear need for a solution that addresses these issues and empowers students to extract information from study PDFs more effectively, leading to a more efficient and successful learning process. 
+
+### Demo Link
+[Click Here for video](https://drive.google.com/file/d/1iQNtjIclEHwuI4wXnjPCKZ9McnALmwK7/view?usp=sharing)
